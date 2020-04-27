@@ -1,0 +1,5 @@
+ug/ite/model/DataStore.class
+ug/ite/model/TodoList.class
+ug/ite/controller/DataStoreController.class
+ug/ite/model/ListItem.class
+ug/ite/Gateway.class
